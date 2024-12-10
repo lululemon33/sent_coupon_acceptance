@@ -1,6 +1,6 @@
 # Will the Customer Accept the Coupon?
  
-## H2 Context
+## Context
 
 Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. Would you accept that coupon and take a short detour to the restaurant? Would you accept the coupon but use it on a subsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaurant? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
 
@@ -14,7 +14,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 
 There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
-## H2 Findings
+## Findings
 
 By visualizing statistical summaries encompassing various contextual attribues associated with the survied drivers' trips (wheather, time of day, etc.) and attributes of the drivers themselves (marital status, income, education, profession, etc.) the following differences between drivers who accepted the coupons and those who did not accept the coupons were discovered:
 
