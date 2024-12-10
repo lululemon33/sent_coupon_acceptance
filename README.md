@@ -18,3 +18,22 @@ There are five different types of coupons: Less expensive restaurants (under $20
 
 By visualizing statistical summaries encompassing various contextual attribues associated with the survied drivers' trips (wheather, time of day, etc.) and attributes of the drivers themselves (marital status, income, education, profession, etc.) the following differences between drivers who accepted the coupons and those who did not accept the coupons were discovered:
 
+1) The largest gaps between coupon acceptance and non-acceptance belonged to coupons sent to drivers for "Carry out & Take Away" and "Restaurants whose average price for a meal was less than $20".
+
+2) Drivers who accepted coupons to visit a near by bar share the following characteristics:
+
+- They tend to visit bars more than once a month
+- They tend to fall between the ages of 25 and 30
+- They tend not to have children riding with them in the car upon acceptance
+- They tend to not be Fishermen, Farmers nor Foresters
+
+Furthermore, warm tempuratures seem to persuade drivers to accept coupons versus cold tempuratures.
+
+3) Drivers who accepted coupons for carry out from a near by restaurant share the following characteristics:
+
+- Most of them are widowed
+- They tend to not have a bachelor's degree
+- They tend to make less than $50K per year and they tend to order carry out more than 4 times a month
+
+Additionally, most coupons are accepted early in the morning presumably when most drivers are on their way to work and are trying to find carry out for breakfast.
+
