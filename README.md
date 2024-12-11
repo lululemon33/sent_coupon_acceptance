@@ -27,7 +27,7 @@ By visualizing statistical summaries encompassing various contextual attribues a
 - They tend not to have children riding with them in the car upon acceptance
 - They tend to not be Fishermen, Farmers nor Foresters
 
-Furthermore, warm tempuratures seem to persuade drivers to accept coupons versus cold tempuratures.
+Furthermore, warm tempuratures seem to persuade drivers to accept coupons for the nearest bars versus cold tempuratures.
 
 3) Drivers who accepted coupons for carry out from a near by restaurant share the following characteristics:
 
