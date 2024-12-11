@@ -32,8 +32,8 @@ Furthermore, warm tempuratures seem to persuade drivers to accept coupons for th
 3) Drivers who accepted coupons for carry out from a near by restaurant share the following characteristics:
 
 - Most of them are widowed
+- They tend to accept coupons for establishments that are in route to their destination during certain times of the day (early evening)
 - They tend to not have a bachelor's degree
 - They tend to make less than $50K per year and they tend to order carry out more than 4 times a month
 
-Additionally, most coupons are accepted early in the morning presumably when most drivers are on their way to work and are trying to find carry out for breakfast. However, the biggest gap between coupon acceptance and non-acceptance was observed during the 6pm time slot. This suggest that drivers are more selective during this time of the day which could be due to traffic conditions and thus prefer coupons for establishments that are in route to their final destination. This group would require more targeted marketing campaigns with regards to routes taken during the course of a month (or longer).
-
+Additionally, most coupons are accepted early in the morning presumably when most drivers are on their way to work and are trying to find carry out for breakfast.  However, the biggest gap between coupon acceptance and non-acceptance was observed during the 6pm time slot.  This suggest that drivers are more selective during this time of the day which could be due to traffic conditions and thus prefer coupons for establishments that are in route to their final destination.  This group would require more targeted marketing campaigns with regards to routes taken during the course of a month \(or longer\).
