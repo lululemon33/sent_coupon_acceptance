@@ -35,5 +35,5 @@ Furthermore, warm tempuratures seem to persuade drivers to accept coupons versus
 - They tend to not have a bachelor's degree
 - They tend to make less than $50K per year and they tend to order carry out more than 4 times a month
 
-Additionally, most coupons are accepted early in the morning presumably when most drivers are on their way to work and are trying to find carry out for breakfast.
+Additionally, most coupons are accepted early in the morning presumably when most drivers are on their way to work and are trying to find carry out for breakfast. However, the biggest gap between coupon acceptance and non-acceptance was observed during the 6pm time slot. This suggest that drivers are more selective during this time of the day which would require business to build targeted marketing campaigns for this particular group.
 
